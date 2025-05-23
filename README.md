@@ -4,6 +4,10 @@
 
 This is an automatic file copy tool designed for Raspberry Pi 5 Model B that copies files from a smaller capacity USB storage device to a larger one when two USB storage devices are connected.
 
+Demo:
+
+https://github.com/user-attachments/assets/09343e59-0526-4d52-899a-851b53486170
+
 ## Features
 
 - Automatically detects inserted USB storage devices
