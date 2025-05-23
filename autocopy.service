@@ -1,0 +1,15 @@
+[Unit]
+Description=AutoCopy USB Automatic File Copy Service
+After=multi-user.target
+
+[Service]
+Type=forking
+ExecStart=/usr/local/bin/autocopy.py --daemon
+PIDFile=/var/run/autocopy.pid
+Restart=on-failure
+RestartSec=5
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target 

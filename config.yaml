@@ -1,0 +1,19 @@
+# AutoCopy Configuration File
+
+# Maximum folder index, will not copy when reached
+max_folder_index: 999
+
+# Whether to enable LED indicator function
+led_enabled: true
+
+# Check if target device has enough free space before copying
+check_free_space: true
+
+# Automatically eject devices after copying
+auto_eject: true
+
+# Maximum retry attempts for ejecting devices
+eject_retry: 3
+
+# Interval between retry attempts (seconds)
+eject_retry_interval: 5 

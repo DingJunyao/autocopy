@@ -1,0 +1,4 @@
+pyudev
+psutil
+tqdm
+PyYAML
