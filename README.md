@@ -1,6 +1,6 @@
 # AutoCopy - Raspberry Pi Automatic File Copy Tool
 
-[中文介绍](./README-zh.md)
+[中文介绍](./README-zh.md) | [Related post (in Chinese)](https://4ading.com/posts/auto-backup-device-made-of-rasberry-pi/)
 
 This is an automatic file copy tool designed for Raspberry Pi 5 Model B that copies files from a smaller capacity USB storage device to a larger one when two USB storage devices are connected.
 

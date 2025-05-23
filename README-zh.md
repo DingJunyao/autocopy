@@ -1,8 +1,12 @@
 # AutoCopy - 树莓派自动文件复制工具
 
-[English](./README.md)
+[English](./README.md) | [相关文章](https://4ading.com/posts/auto-backup-device-made-of-rasberry-pi/)
 
 这是一个为树莓派 5B 设计的自动文件复制工具，当插入两个 USB 存储设备时，自动将小容量设备的文件复制到大容量设备中。
+
+示例：
+
+https://github.com/user-attachments/assets/09343e59-0526-4d52-899a-851b53486170
 
 ## 功能特点
 
