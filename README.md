@@ -104,4 +104,4 @@ Python requirements can be found in requirements.txt.
 - The copied folder name format is "YYYYMMDDNNN", e.g. "20250503001"
 - When the folder index for the same day reaches 999, no more copying will be performed
 - Due to the naming dependency of the target directory on the date, add the clock module battery to the Raspberry Pi if you need to copy it offline
-- The author only has a Raspberry Pi 5 Model B, and the script is written for Rasberry Pi OS. Make proper changes if you need to run it on other Raspberry Pi or other Linux devices
+- The author only has a Raspberry Pi 5 Model B, and the script is written for Raspberry Pi OS. Make proper changes if you need to run it on other Raspberry Pi or other Linux devices
